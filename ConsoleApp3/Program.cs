@@ -16,6 +16,9 @@ namespace ConsoleApp3
             Console.WriteLine(person.FirstName);
             Console.WriteLine(person.SNILS);
 
+            Column column = new Column();
+            Console.WriteLine(column.Head.Name);
+
             Console.ReadLine();
         }
     }

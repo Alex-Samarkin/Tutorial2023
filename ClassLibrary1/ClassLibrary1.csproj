@@ -42,6 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Column.cs" />
+    <Compile Include="DataFrame.cs" />
+    <Compile Include="Head.cs" />
+    <Compile Include="Items.cs" />
     <Compile Include="Pathient.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
